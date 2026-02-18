@@ -13,10 +13,29 @@ Algoritma brute force yang saya gunakan disini berbasis permutasi. Secara singka
 
 Kompleksitas waktu keseluruhan algoritma adalah O(n! · n), sedangkan kompleksitas ruang adalah O(n²).
 
+## Struktur Folder
+
+```
+Tucil1_18223025/
+├── bin/
+│   └── run.bat                # Script untuk menjalankan program (Windows)
+├── doc/                       
+│   └── Tucil1_18223025.pdf    # Dokumen Laporan
+├── src/
+│   └── queensolver.py         # Kode utama program
+├── test/                      
+│   ├── tc1.txt                # Test case 1
+│   ├── tc1_solution.txt       # Solusi test case 1
+│   ├── tc2.txt                # Test case 2
+│   └── ...                    # Test case lainnya
+└── README.md                  
+```
+
 ## Instalasi
 
 ### Windows/Linux/Mac
 Pastikan Python 3 telah terinstall. Unduh dari https://www.python.org/downloads/
+
 
 ## Cara Menjalankan Program
 
@@ -67,5 +86,5 @@ EFFFF
 ## Author
 Nama | NIM | Kelas
 ---|---|---
-Muhammad Azzam Robbani | 18223025 | STI
+Muhammad Azzam Robbani | 18223025 | 01
 
